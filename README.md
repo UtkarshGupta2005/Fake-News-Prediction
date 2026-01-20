@@ -40,3 +40,4 @@ Python
 NLTK
 TensorFlow / Keras
 Gensim
+COLAB LINK : https://colab.research.google.com/drive/1sjL6oRqy4Z6uGZTR4uE1rjlmJI7d5Pvl#scrollTo=kTH77aoGlSgS
